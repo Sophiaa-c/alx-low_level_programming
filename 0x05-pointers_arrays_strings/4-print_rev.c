@@ -4,7 +4,7 @@
  * @s: the param (string) to be printed)
  * Return: nothing
  */
-void print_rev(char *c)
+void print_rev(char *s)
 {
 	int i, n;
 
