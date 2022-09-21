@@ -23,3 +23,4 @@ void rev_string(char *s)
 		s[length2] = temp;
 		length2 -= 1;
 	}
+}
