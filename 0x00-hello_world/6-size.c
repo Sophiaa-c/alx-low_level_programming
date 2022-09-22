@@ -8,7 +8,7 @@
 int main(void)
 {
 	char letters;
- 	int num;
+	int num;
 	long int number;
 	long long int digit;
 	float decimal;
